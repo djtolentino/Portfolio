@@ -8,6 +8,6 @@ if based on the campaign interactions a customer will complete a purchase.
 Complete Python analysis: [Momentum Marketing Customer Analysis](https://github.com/djtolentino/Portfolio/blob/main/Momentum%20Marketing%20Customer%20Analysis/Momentum%20Marketing%20Customer%20Outreach%20Analysis.ipynb)
 
 
-Tableau Dashboard: 
+Tableau Dashboard: ![Momentum Marketing Dashboard](https://github.com/djtolentino/Portfolio/blob/main/Momentum%20Marketing%20Customer%20Analysis/Momentum%20Marketing%20Dashboard.png)
 
-Interactive Tableau Dashboard: [Momentum Marketing Dashboard](https://public.tableau.com/app/profile/diego.tolentino/viz/MarketingAnalysis_17222665008570/Dashboard2)
+Interactive Tableau Dashboard: [Momentum Marketing Interactive Dashboard](https://public.tableau.com/app/profile/diego.tolentino/viz/MarketingAnalysis_17222665008570/Dashboard2)
