@@ -4,3 +4,5 @@ key performance indicators (KPIs) to present findings between each campaign.
 
 Taking this marketing data one step further, different machine learning models are evaluated to help the company better predict 
 if based on the campaign interactions a customer will complete a purchase.
+
+Complete Python analysis: [Momentum Marketing Customer Analysis](https://github.com/djtolentino/Portfolio/blob/main/Momentum%20Marketing%20Customer%20Analysis/Momentum%20Marketing%20Customer%20Outreach%20Analysis.ipynb)
